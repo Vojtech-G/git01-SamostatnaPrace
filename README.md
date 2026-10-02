@@ -66,3 +66,4 @@ Adresář `srv01/.vagrant/` vznikne pouze lokálně při práci s Vagrantem a ne
 - [x] .gitignore vylučuje `.vagrant/` a žádné soubory z něj nejsou sledované Gitem.
 - [x] Na serveru jsem spustil/a ověřovací skript a vložil/a kód i celý záznam do části Moje řešení.
 - [x] Doplnil/a jsem část Moje řešení a odeslal/a změny do svého GitHub repozitáře `git01-...`.
+Při úpravě tohoto souboru byla využita AI
